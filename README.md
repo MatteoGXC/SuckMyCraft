@@ -41,6 +41,9 @@ Welcome to **SuckMyCraft**, a custom Minecraft experience tailored for both Java
 ## Contributing
 Want to contribute to the project? Feel free to create a pull request or open an issue for suggestions and improvements.
 
+## Thank You
+to matteo for using his server 🙏
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
