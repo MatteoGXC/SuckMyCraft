@@ -13,7 +13,7 @@ Welcome to **SuckMyCraft**, a custom Minecraft experience tailored for both Java
 - **Port:** `2566` (via EaglerX Bungee)
 
 ## Features
-- **Cross-Compatibility:** Supports both Java 1.20.6 and Eaglercraft users.
+- **Cross-Compatibility:** Supports both Java 1.20.6 (or lower thanks to ViaVersion!) and Eaglercraft users.
 - **Optimized Proxy Setup:** Powered by EaglerX Bungee for Eaglercraft.
 - **Custom Gameplay Enhancements:** Unique roles, events, and more.
 
